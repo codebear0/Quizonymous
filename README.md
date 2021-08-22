@@ -1,6 +1,6 @@
 <b>Quizonymous - The Quizzing Site</b>
 
-Database Management System project which aims in providing a platform for organizations to conduct quiz competitions alongside providing a user-friendly quizzing experience to the users.
+Database Management Systems project which aims in providing a platform for users to assess their expertise across various domains alongside a user-friendly quizzing experience.
 
 Go to the Documentation folder to view detailed description of the project. <br>
 --TABLE OF CONTENTS--
