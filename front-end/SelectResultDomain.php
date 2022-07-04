@@ -4,7 +4,7 @@
     if(!isset($_SESSION["user_id"]))
     {    
         echo  '<script> 
-                    alert("Kindly login to view the Leaderboard!"); window.location.href="index.html";
+                    alert("Kindly login to view the Leaderboard!"); window.location.href="../index.html";
               </script>';  
     }
 
@@ -54,7 +54,7 @@
         </form>
         </div>
         <div>
-            <h4  >Click<a href="index.html">  here  </a> to go back to HOME page</h4><br><br>
+            <h4  >Click<a href="../index.html">  here  </a> to go back to HOME page</h4><br><br>
         </div>
         <script src="//unpkg.com/jquery@3.4.1/dist/jquery.min.js"></script> 
         <script src="//unpkg.com/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script> 

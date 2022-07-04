@@ -264,7 +264,7 @@
             </div>
         </form>
         <div>
-            <br><h5 class="text-center">Click<a href="./index.html">  here  </a> to go back to HOME page</h5><br><br>
+            <br><h5 class="text-center">Click<a href="../index.html">  here  </a> to go back to HOME page</h5><br><br>
         </div>
         <script src="./Timer2.js"></script>
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

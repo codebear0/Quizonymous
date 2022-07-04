@@ -4,7 +4,7 @@
     if(isset($_SESSION["user_id"]))
     {    
         echo '<script> 
-                alert("Already signed up!"); window.location.href="index.html";
+                alert("Already signed up!"); window.location.href="../index.html";
              </script>';  
     }
 ?>
