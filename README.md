@@ -37,7 +37,7 @@ After creating the new G-mail account, follow the below steps: <br>
 Now run build.php to setup the application.
 
 After the successful completion of the aforementioned steps, the application is ready to be used. <br>
-Enter http://localhost/Quizonymous/front-end in your web browser to go to the home page.	
+Enter http://localhost/Quizonymous in your web browser to go to the home page.	
 
 If you wish to remove the database from your SQL server, run dropDB.php
 
