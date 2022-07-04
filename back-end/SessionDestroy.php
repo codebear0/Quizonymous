@@ -5,7 +5,7 @@
         session_destroy();
         echo    
         '<script> 
-                alert("Logout Successful!"); window.location.href="../front-end/index.html";
+                alert("Logout Successful!"); window.location.href="../index.html";
         </script>';
     }
 ?>

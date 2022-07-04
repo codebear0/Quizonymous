@@ -84,7 +84,7 @@
 
 
 <?php
-    header( "refresh:5; URL=../front-end/index.html" );
+    header( "refresh:5; URL=../index.html" );
 
     $del='DELETE FROM SESSIONINFO WHERE QUES_SNO=1';
     //$drop='DROP TABLE SESSIONINFO';

@@ -15,7 +15,7 @@
             echo "ERROR !! TRY AGAIN\n";
         else{    
                 echo '<script> 
-                        alert("Account created successfully !!"); window.location.href="../front-end/index.html";
+                        alert("Account created successfully !!"); window.location.href="../index.html";
                     </script>';
             }
     }

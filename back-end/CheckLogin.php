@@ -19,7 +19,7 @@
         if(password_verify($pwd,$cpwd["pwd"])){
             echo '<script>
                     alert("LOGIN SUCCESSFUL !!");
-                    window.location.href="../front-end/index.html";
+                    window.location.href="../index.html";
                   </script>';
             $obj=mysqli_fetch_assoc($result);
             $_SESSION["user_id"]=$obj["u_id"];
@@ -27,7 +27,7 @@
             $exec = "CALL UPDATEACTIVITY($u)";
             mysqli_query($con,$exec);
             include 'CreateViewProfile.php';
-            header("location: ../front-end/index.html");
+            header("location: ../index.html");
         }
         else{
             echo '<script>
